@@ -28,4 +28,3 @@ To view the cube in action:
 
 1. Clone or download this repository.
 2. Open `index.html` in your browser (or run it via Live Server for best results).
-
