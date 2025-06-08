@@ -20,7 +20,7 @@ You can view a screen recording of the rotating cube here:
 
 A screenshot of the running project in Live Server:
 
-![Screenshot of Visual Studio Code showing the WebGL Cube Project running in Live Server. The main window displays JavaScript code for rendering a rotating 3D cube. A context menu is open with the option Open with Live Server highlighted. The file explorer on the left lists project files including index.html and cube.js. The environment appears organized and focused on web development. The overall tone is technical and instructional.]
+![Live Server Screenshot](Screenshots/LiveServer.png)
 
 ## Running the Project
 
